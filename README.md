@@ -39,19 +39,19 @@ This project predicts airline ticket prices using machine learning techniques su
 
 ### Airline Price Analysis
 
-![Airline Price Analysis](images/airline_price_analysis.png)
+![Airline Price Analysis](airline_price_analysis.png)
 
 ### Ticket Price Distribution by Airline
 
-![Airline Price Boxplot](images/airline_price_boxplot.png)
+![Airline Price Distribution](airline_price_distribution.png)
 
-### Route Feature Engineering
+### Route Analysis
 
-![Route Feature Engineering](images/route_feature_engineering.png)
+![Route Analysis](route_analysis.png)
 
 ### Model Performance
 
-![Model Performance](images/model_performance.png)
+![Model Performance](model_performance.png.png)
 
 ## Author
 
