@@ -35,6 +35,24 @@ This project predicts airline ticket prices using machine learning techniques su
 - Random Forest outperformed Linear Regression.
 - Feature engineering improved predictive performance.
 
+## Visualizations
+
+### Correlation Heatmap
+
+![Heatmap](images/correlation_heatmap.png)
+
+### MPG Distribution
+
+![MPG Distribution](images/mpg_distribution.png)
+
+### Feature Relationship Analysis
+
+![Feature Relationship](images/feature_relationship.png)
+
+### Model Performance
+
+![Results](images/model_results.png)
+
 ## Author
 
 Zakariyya Shahid  
