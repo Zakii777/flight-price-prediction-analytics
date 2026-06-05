@@ -37,21 +37,21 @@ This project predicts airline ticket prices using machine learning techniques su
 
 ## Visualizations
 
-### Correlation Heatmap
+### Airline Price Analysis
 
-![Heatmap](images/correlation_heatmap.png)
+![Airline Price Analysis](images/airline_price_analysis.png)
 
-### MPG Distribution
+### Ticket Price Distribution by Airline
 
-![MPG Distribution](images/mpg_distribution.png)
+![Airline Price Boxplot](images/airline_price_boxplot.png)
 
-### Feature Relationship Analysis
+### Route Feature Engineering
 
-![Feature Relationship](images/feature_relationship.png)
+![Route Feature Engineering](images/route_feature_engineering.png)
 
 ### Model Performance
 
-![Results](images/model_results.png)
+![Model Performance](images/model_performance.png)
 
 ## Author
 
